@@ -1,7 +1,11 @@
-## Welcome to GitHub Pages
+## Hello! I'm Jenny Lee
 
-### Psych Major
+I'm a scratch golfer, aspiring web developer, and a wine lover.
+
+### B.A. (June 2023) in Psychology UCLA
 * Specialization in Computing
+
+
 
 You can use the [editor on GitHub](https://github.com/JennyBenjamina/JennyBenjamina/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
