@@ -1,6 +1,6 @@
 ## Hello! I'm Jenny Lee
 
-scratch golfer | aspiring web developer | wine lover 
+⛳ scratch golfer | 🍷 wine lover | 🧠 problem solver  
 
 
 
