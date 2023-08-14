@@ -4,7 +4,7 @@
 
 
 
-#### B.A. (June 2023) in Psychology UCLA
+#### B.A. in Psychology UCLA
 * Specialization in Computing
 
 
